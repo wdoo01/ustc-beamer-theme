@@ -1,0 +1,1 @@
+USTC beamer, a modified version of Torino theme, which is created by Marco Barisone from Politecnico di Torino (http://blog.barisione.org/2007-09/torino-a-pretty-theme-for-latex-beamer/) and modified by Jiawen Xie, a previous undergraduate from USTC. It is a fancy LaTeX beamer theme. Please refer ReadMe.pdf for more information. Please feel free to give me any feedback :)
